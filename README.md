@@ -1,20 +1,37 @@
-# Freelance
-After learning Responsive Web Design, I started experimenting with WordPress, Shopify and Webflow. I have worked with two marketing agencies based in Mumbai, Spacebar and Upto Design Pvt Ltd (now absorbed by The Brand Brewery, Mumbai).
+# 🧑‍💻 Freelance Projects
 
-### HTML EMAILER For Spacebar[https://spacebar.in/] (Mumbai)
-Duration: 3 days
-Revision: 3 times
+After learning **Responsive Web Design**, I began experimenting with **WordPress**, **Shopify**, and **Webflow**. I’ve had the opportunity to work with two marketing agencies based in Mumbai:  
+**Spacebar** and **Upto Design Pvt Ltd** (now merged with **The Brand Brewery**, Mumbai).
 
-### Kowa International [https://kowaindia.com/]
+---
 
-### My Portfolio [https://madhushree.webflow.io/]
-This is my first portfolio to showcase my work. After going through Webflow University, I experimented with some design styles. I did not use any templates; everything was made from scratch. 
+## 🔧 Projects
 
-### Other Websites
-These websites' domains are no longer available. 
+### 📧 HTML Emailer for [Spacebar](https://spacebar.in/) — Mumbai
+- **Duration:** 3 days  
+- **Revisions:** 3 rounds  
+- Created a responsive HTML emailer tailored for marketing outreach.
 
-- Belwaba
-- Taiwan Excellence
-  
-- Paras Exports International Pvt Ltd.
+---
 
+### 🌐 Website for [Kowa International](https://kowaindia.com/)
+- Assisted in front-end implementation and layout fixes.  
+- Ensured a responsive and clean user interface.
+
+---
+
+### 💼 [My Webflow Portfolio](https://madhushree.webflow.io/)
+This is my first portfolio, fully built from scratch—**no templates used**.  
+After completing lessons on **Webflow University**, I applied what I learned through hands-on experimentation with modern design styles.
+
+---
+
+### ❌ Archived Projects (Domains no longer active)
+These projects were live but are no longer available online:
+- Belwaba  
+- Taiwan Excellence  
+- Paras Exports International Pvt Ltd
+
+---
+
+Feel free to [contact me](mailto:boylemadhushree@gmail.com) if you'd like to collaborate!
