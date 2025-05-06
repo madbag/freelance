@@ -1,4 +1,4 @@
-# 🧑‍💻 Freelance Projects
+# Freelance Projects
 
 After learning **Responsive Web Design**, I began experimenting with **WordPress**, **Shopify**, and **Webflow**. I’ve had the opportunity to work with two marketing agencies based in Mumbai:  
 **Spacebar** and **Upto Design Pvt Ltd** (now merged with **The Brand Brewery**, Mumbai).
