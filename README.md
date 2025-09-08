@@ -7,6 +7,16 @@ After learning **Responsive Web Design**, I began experimenting with **WordPress
 
 ## 🔧 Projects
 
+### 🧵 [UB Arthouse Crochet & Art Shop](https://ubarthouse.vercel.app/) · [GitHub Repo](https://github.com/madbag/ubarthouse)
+- **Tech:** Next.js, Tailwind, Resend, Instagram & WhatsApp API  
+- **Highlights:**  
+  - Built a fully functional e-commerce-style website for a small business.  
+  - Integrated **WhatsApp, Instagram, and email (Resend)** for direct customer engagement.  
+  - Attracted **100+ visits in the first 3 days** without paid marketing.  
+- **Impact:** Helped the client showcase and sell handmade art products in a modern, mobile-first way.  
+
+---
+
 ### 📧 HTML Emailer for [Spacebar](https://spacebar.in/) — Mumbai
 - **Duration:** 3 days  
 - **Revisions:** 3 rounds  
