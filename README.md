@@ -25,7 +25,7 @@ After learning **Responsive Web Design**, I began experimenting with **WordPress
 ---
 
 ### 🌐 Website for [Kowa International](https://kowaindia.com/)
-- Assisted in front-end implementation and layout fixes.  
+- Designed and deployed Kowa's Indian marketing website.  
 - Ensured a responsive and clean user interface.
 
 ---
