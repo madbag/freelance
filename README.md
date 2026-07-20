@@ -37,7 +37,7 @@ After completing lessons on **Webflow University**, I applied what I learned thr
 ---
 
 ### ❌ Archived Projects (Domains no longer active)
-These projects were live but are no longer available online:
+These projects were live under Upto Design Pvt Ltd. but are no longer available online:
 - Belwaba  
 - Taiwan Excellence  
 - Paras Exports International Pvt Ltd
